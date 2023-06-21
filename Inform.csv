@@ -1,0 +1,101 @@
+date,ID,USER,COMMENT
+2023-01-01,DAOJF01,최태원,"VG13, CKD 교체 후 TEST 진행."
+2023-01-02,DAOJF02,김재한,VG11 CAL 진행 이후 DATA 양호 확인. 후속 PURGE 진행 후 TEST 진행 예정 
+2023-01-03,DAOJF03,유진성,TEST 결과 Particle 불량. THK TEST 결과 불량. 후속 점검 필요 
+2023-01-04,DAOJF04,최현영,"VG13, CKD 교체 후 TEST 진행."
+2023-01-05,DAOJF05,최태원,VG11 CAL 진행 이후 DATA 양호 확인. 후속 PURGE 진행 후 TEST 진행 예정 
+2023-01-06,DAOJF06,김재한,TEST 결과 Particle 불량. THK TEST 결과 불량. 후속 점검 필요 
+2023-01-07,DAOJF07,유진성,GAS LINE 교체 진행 후 뿌림성 Particle 재발. 추가 점검 예정 
+2023-01-08,DAOJF08,최현영,TEST 결과 양호 설비 FLOW 
+2023-01-09,DAOJF09,최태원,SCRATCH TEST 결과 양호 
+2023-01-10,DAOJF10,김재한,PC TEST 결과 양호 
+2023-01-11,DAOJF01,유진성,SCRATCH TEST 결과 양호 
+2023-01-12,DAOJF02,최현영,PC TEST 결과 양호 
+2023-01-13,DAOJF03,최태원,THK TEST 결과 양호 
+2023-01-14,DAOJF04,김재한,AIR VALVE 내부 LEAK 확인. 교체 진행 완료. TEST 진행 예정 
+2023-01-15,DAOJF05,유진성,LEAK RATE 불량. HE CHECK 재진행 예정 
+2023-01-16,DAOJF06,최현영,HE CHECK 결과 양호 확인 
+2023-01-17,DAOJF07,최태원,TEMP BIAS 불량. BIAS 재 수정 예정 
+2023-01-18,DAOJF08,김재한,GAS LINE 교체 진행 후 뿌림성 Particle 재발. 추가 점검 예정 
+2023-01-19,DAOJF09,유진성,TEST 결과 양호 설비 FLOW 
+2023-01-20,DAOJF10,최현영,SCRATCH TEST 결과 양호 
+2023-01-21,DAOJF01,최태원,PC TEST 결과 양호 
+2023-01-22,DAOJF02,김재한,THK TEST 결과 양호 
+2023-01-23,DAOJF03,유진성,AIR VALVE 내부 LEAK 확인. 교체 진행 완료. TEST 진행 예정 
+2023-01-24,DAOJF04,최현영,LEAK RATE 불량. HE CHECK 재진행 예정 
+2023-01-25,DAOJF05,최태원,HE CHECK 결과 양호 확인 
+2023-01-26,DAOJF06,김재한,TEMP BIAS 불량. BIAS 재 수정 예정 
+2023-01-27,DAOJF07,유진성,NPW 부족으로 제조 추가 요청
+2023-01-28,DAOJF08,최현영,"VG13, CKD 교체 후 TEST 진행."
+2023-01-29,DAOJF09,최태원,VG11 CAL 진행 이후 DATA 양호 확인. 후속 PURGE 진행 후 TEST 진행 예정 
+2023-01-30,DAOJF10,김재한,TEST 결과 Particle 불량. THK TEST 결과 불량. 후속 점검 필요 
+2023-01-31,DAOJF01,유진성,GAS LINE 교체 진행 후 뿌림성 Particle 재발. 추가 점검 예정 
+2023-02-01,DAOJF02,최현영,TEST 결과 양호 설비 FLOW 
+2023-02-02,DAOJF03,최태원,SCRATCH TEST 결과 양호 
+2023-02-03,DAOJF04,김재한,PC TEST 결과 양호 
+2023-02-04,DAOJF05,유진성,THK TEST 결과 양호 
+2023-02-05,DAOJF06,최현영,AIR VALVE 내부 LEAK 확인. 교체 진행 완료. TEST 진행 예정 
+2023-02-06,DAOJF07,최태원,LEAK RATE 불량. HE CHECK 재진행 예정 
+2023-02-07,DAOJF08,김재한,HE CHECK 결과 양호 확인 
+2023-02-08,DAOJF09,유진성,VG11 CAL 진행 이후 DATA 양호 확인. 후속 PURGE 진행 후 TEST 진행 예정 
+2023-02-09,DAOJF10,최현영,TEST 결과 Particle 불량. THK TEST 결과 불량. 후속 점검 필요 
+2023-02-10,DAOJF01,최태원,GAS LINE 교체 진행 후 뿌림성 Particle 재발. 추가 점검 예정 
+2023-02-11,DAOJF02,김재한,TEST 결과 양호 설비 FLOW 
+2023-02-12,DAOJF03,유진성,SCRATCH TEST 결과 양호 
+2023-02-13,DAOJF04,최현영,PC TEST 결과 양호 
+2023-02-14,DAOJF05,최태원,THK TEST 결과 양호 
+2023-02-15,DAOJF06,김재한,AIR VALVE 내부 LEAK 확인. 교체 진행 완료. TEST 진행 예정 
+2023-02-16,DAOJF07,유진성,LEAK RATE 불량. HE CHECK 재진행 예정 
+2023-02-17,DAOJF08,최현영,HE CHECK 결과 양호 확인 
+2023-02-18,DAOJF09,최태원,TEMP BIAS 불량. BIAS 재 수정 예정 
+2023-02-19,DAOJF10,김재한,SCRATCH TEST 결과 양호 
+2023-02-20,DAOJF01,유진성,PC TEST 결과 양호 
+2023-02-21,DAOJF02,최현영,THK TEST 결과 양호 
+2023-02-22,DAOJF03,최태원,AIR VALVE 내부 LEAK 확인. 교체 진행 완료. TEST 진행 예정 
+2023-02-23,DAOJF04,김재한,LEAK RATE 불량. HE CHECK 재진행 예정 
+2023-02-24,DAOJF05,유진성,HE CHECK 결과 양호 확인 
+2023-02-25,DAOJF06,최현영,TEMP BIAS 불량. BIAS 재 수정 예정 
+2023-02-26,DAOJF07,최태원,NPW 부족으로 제조 추가 요청
+2023-02-27,DAOJF08,김재한,"VG13, CKD 교체 후 TEST 진행."
+2023-02-28,DAOJF09,유진성,VG11 CAL 진행 이후 DATA 양호 확인. 후속 PURGE 진행 후 TEST 진행 예정 
+2023-03-01,DAOJF10,최현영,TEST 결과 Particle 불량. THK TEST 결과 불량. 후속 점검 필요 
+2023-03-02,DAOJF01,최태원,GAS LINE 교체 진행 후 뿌림성 Particle 재발. 추가 점검 예정 
+2023-03-03,DAOJF02,김재한,TEST 결과 양호 설비 FLOW 
+2023-03-04,DAOJF03,유진성,SCRATCH TEST 결과 양호 
+2023-03-05,DAOJF04,최현영,TEST 결과 양호 설비 FLOW 
+2023-03-06,DAOJF05,최태원,SCRATCH TEST 결과 양호 
+2023-03-07,DAOJF06,김재한,PC TEST 결과 양호 
+2023-03-08,DAOJF07,유진성,THK TEST 결과 양호 
+2023-03-09,DAOJF08,최현영,AIR VALVE 내부 LEAK 확인. 교체 진행 완료. TEST 진행 예정 
+2023-03-10,DAOJF09,최태원,LEAK RATE 불량. HE CHECK 재진행 예정 
+2023-03-11,DAOJF10,김재한,THK TEST 결과 양호 
+2023-03-12,DAOJF01,유진성,AIR VALVE 내부 LEAK 확인. 교체 진행 완료. TEST 진행 예정 
+2023-03-13,DAOJF02,최현영,LEAK RATE 불량. HE CHECK 재진행 예정 
+2023-03-14,DAOJF03,최태원,HE CHECK 결과 양호 확인 
+2023-03-15,DAOJF04,김재한,TEMP BIAS 불량. BIAS 재 수정 예정 
+2023-03-16,DAOJF05,유진성,NPW 부족으로 제조 추가 요청
+2023-03-17,DAOJF06,최현영,"VG13, CKD 교체 후 TEST 진행."
+2023-03-18,DAOJF07,최태원,VG11 CAL 진행 이후 DATA 양호 확인. 후속 PURGE 진행 후 TEST 진행 예정 
+2023-03-19,DAOJF08,김재한,TEST 결과 Particle 불량. THK TEST 결과 불량. 후속 점검 필요 
+2023-03-20,DAOJF09,유진성,GAS LINE 교체 진행 후 뿌림성 Particle 재발. 추가 점검 예정 
+2023-03-21,DAOJF10,최현영,TEST 결과 양호 설비 FLOW 
+2023-03-22,DAOJF01,최태원,SCRATCH TEST 결과 양호 
+2023-03-23,DAOJF02,김재한,PC TEST 결과 양호 
+2023-03-24,DAOJF03,유진성,THK TEST 결과 양호 
+2023-03-25,DAOJF04,최현영,SCRATCH TEST 결과 양호 
+2023-03-26,DAOJF05,최태원,PC TEST 결과 양호 
+2023-03-27,DAOJF06,김재한,THK TEST 결과 양호 
+2023-03-28,DAOJF07,유진성,AIR VALVE 내부 LEAK 확인. 교체 진행 완료. TEST 진행 예정 
+2023-03-29,DAOJF08,최현영,LEAK RATE 불량. HE CHECK 재진행 예정 
+2023-03-30,DAOJF09,최태원,HE CHECK 결과 양호 확인 
+2023-03-31,DAOJF10,김재한,TEMP BIAS 불량. BIAS 재 수정 예정 
+2023-04-01,DAOJF01,유진성,NPW 부족으로 제조 추가 요청
+2023-04-02,DAOJF02,최현영,TEST 결과 Particle 불량. THK TEST 결과 불량. 후속 점검 필요 
+2023-04-03,DAOJF03,최태원,GAS LINE 교체 진행 후 뿌림성 Particle 재발. 추가 점검 예정 
+2023-04-04,DAOJF04,김재한,TEST 결과 양호 설비 FLOW 
+2023-04-05,DAOJF05,유진성,SCRATCH TEST 결과 양호 
+2023-04-06,DAOJF06,최현영,PC TEST 결과 양호 
+2023-04-07,DAOJF07,최태원,THK TEST 결과 양호 
+2023-04-08,DAOJF08,김재한,PC TEST 결과 양호 
+2023-04-09,DAOJF09,유진성,THK TEST 결과 양호 
+2023-04-10,DAOJF10,최현영,AIR VALVE 내부 LEAK 확인. 교체 진행 완료. TEST 진행 예정 
