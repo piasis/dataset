@@ -1,8 +1,8 @@
 date,ID,USER,COMMENT
-2023-01-01,DAOJF01,최태원,VG13 CKD 교체 후 TEST 진행.
+2023-01-01,DAOJF01,최태원,"VG13, CKD 교체 후 TEST 진행."
 2023-01-02,DAOJF02,김재한,VG11 CAL 진행 이후 DATA 양호 확인. 후속 PURGE 진행 후 TEST 진행 예정 
 2023-01-03,DAOJF03,유진성,TEST 결과 Particle 불량. THK TEST 결과 불량. 후속 점검 필요 
-2023-01-04,DAOJF04,최현영,VG13 CKD 교체 후 TEST 진행.
+2023-01-04,DAOJF04,최현영,"VG13, CKD 교체 후 TEST 진행."
 2023-01-05,DAOJF05,최태원,VG11 CAL 진행 이후 DATA 양호 확인. 후속 PURGE 진행 후 TEST 진행 예정 
 2023-01-06,DAOJF06,김재한,TEST 결과 Particle 불량. THK TEST 결과 불량. 후속 점검 필요 
 2023-01-07,DAOJF07,유진성,GAS LINE 교체 진행 후 뿌림성 Particle 재발. 추가 점검 예정 
@@ -26,7 +26,7 @@ date,ID,USER,COMMENT
 2023-01-25,DAOJF05,최태원,HE CHECK 결과 양호 확인 
 2023-01-26,DAOJF06,김재한,TEMP BIAS 불량. BIAS 재 수정 예정 
 2023-01-27,DAOJF07,유진성,NPW 부족으로 제조 추가 요청
-2023-01-28,DAOJF08,최현영,VG13 CKD 교체 후 TEST 진행.
+2023-01-28,DAOJF08,최현영,"VG13, CKD 교체 후 TEST 진행."
 2023-01-29,DAOJF09,최태원,VG11 CAL 진행 이후 DATA 양호 확인. 후속 PURGE 진행 후 TEST 진행 예정 
 2023-01-30,DAOJF10,김재한,TEST 결과 Particle 불량. THK TEST 결과 불량. 후속 점검 필요 
 2023-01-31,DAOJF01,유진성,GAS LINE 교체 진행 후 뿌림성 Particle 재발. 추가 점검 예정 
@@ -56,7 +56,7 @@ date,ID,USER,COMMENT
 2023-02-24,DAOJF05,유진성,HE CHECK 결과 양호 확인 
 2023-02-25,DAOJF06,최현영,TEMP BIAS 불량. BIAS 재 수정 예정 
 2023-02-26,DAOJF07,최태원,NPW 부족으로 제조 추가 요청
-2023-02-27,DAOJF08,김재한,VG13 CKD 교체 후 TEST 진행.
+2023-02-27,DAOJF08,김재한,"VG13, CKD 교체 후 TEST 진행."
 2023-02-28,DAOJF09,유진성,VG11 CAL 진행 이후 DATA 양호 확인. 후속 PURGE 진행 후 TEST 진행 예정 
 2023-03-01,DAOJF10,최현영,TEST 결과 Particle 불량. THK TEST 결과 불량. 후속 점검 필요 
 2023-03-02,DAOJF01,최태원,GAS LINE 교체 진행 후 뿌림성 Particle 재발. 추가 점검 예정 
@@ -74,7 +74,7 @@ date,ID,USER,COMMENT
 2023-03-14,DAOJF03,최태원,HE CHECK 결과 양호 확인 
 2023-03-15,DAOJF04,김재한,TEMP BIAS 불량. BIAS 재 수정 예정 
 2023-03-16,DAOJF05,유진성,NPW 부족으로 제조 추가 요청
-2023-03-17,DAOJF06,최현영,VG13 CKD 교체 후 TEST 진행.
+2023-03-17,DAOJF06,최현영,"VG13, CKD 교체 후 TEST 진행."
 2023-03-18,DAOJF07,최태원,VG11 CAL 진행 이후 DATA 양호 확인. 후속 PURGE 진행 후 TEST 진행 예정 
 2023-03-19,DAOJF08,김재한,TEST 결과 Particle 불량. THK TEST 결과 불량. 후속 점검 필요 
 2023-03-20,DAOJF09,유진성,GAS LINE 교체 진행 후 뿌림성 Particle 재발. 추가 점검 예정 
